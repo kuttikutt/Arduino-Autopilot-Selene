@@ -8,6 +8,6 @@ I read the digital/analog signals since my boat does have no seatalk/nema-bus or
 
 If you got questions: Just open an issue: https://github.com/kuttikutt/Arduino-Autopilot-Selene/issues
 
-This would be nice: If you use my code: Please add a comment where you got it. This wopuld be awseome and add some carma :D
+This would be nice: If you use my code: Please add a comment where you got it. This would be awseome and add some carma to your soul :D
 
 by Martin Kuettner
